@@ -39,8 +39,8 @@ hotel-management/
     <h3>1. Clonar o Repositório</h3>
     <p>Primeiro, clone o repositório para sua máquina local:</p>
     <pre>
-git clone https://github.com/edsonbruno/hotel-management.git
-cd hotel-management
+git clone https://github.com/sucloudflare/atividade02-maisprati/
+cd atividade02-maisprati
     </pre>
 
    <h3>2. Instalar as Dependências</h3>
